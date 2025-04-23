@@ -4,6 +4,8 @@ A tool to exploit the KRACK in WPA
 # Emerald
 A Discord bot.
 
-# Aura
 # Luna
+A CLI AI assistent
+
+# Aura
 # Eclipse
