@@ -6,3 +6,4 @@ A Discord bot.
 
 # Aura
 # Luna
+# Eclipse
