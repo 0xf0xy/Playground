@@ -28,5 +28,7 @@ def scan(domain, port):
         print(f"[-] Error: {e}")
 
 
-for port in COMMON_PORTS:
-    scan(DOMAIN, port)
+if __name__ == "__main__":
+    print(f"[*] Scanning {DOMAIN} for open ports...\n")
+    for port in COMMON_PORTS:
+        scan(DOMAIN, port)
