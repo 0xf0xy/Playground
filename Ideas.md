@@ -1,5 +1,4 @@
 # Personal Security Projects
-
 A collection of tools and ideas focused on offensive security and digital forensics. These projects aim to explore real-world vulnerabilities, automation, and creative problem-solving.
 
 <br> 
@@ -7,14 +6,14 @@ A collection of tools and ideas focused on offensive security and digital forens
 ## Active Projects
 
 ### [Wind](https://github.com/your-user/wind) ![Status](https://img.shields.io/badge/status-active-brightgreen)
-**Description:** A pentest tool that generates custom wordlists based on common password patterns
+**Description:** A pentest tool that generates custom wordlists based on common password patterns  
 **Features:**
 - Rule-based pattern engine
 - Context-aware inputs (e.g., birthdates, pet names, company names)
 - Output customization and filtering
 
 ### Eclipse ![Status](https://img.shields.io/badge/status-planed-blue)
-**Description:** A forensic tool for detecting, or inserting, hidden content, exploits, or messages inside file metadata (images, videos, audio, etc.).    
+**Description:** A forensic tool for detecting, or inserting, hidden content, exploits, or messages inside file metadata (images, videos, audio, etc.).   
 **Planned Features:**
 - Metadata parsing and analysis
 - Suspicious keyword scanning
@@ -32,8 +31,8 @@ A collection of tools and ideas focused on offensive security and digital forens
 ### Kraken ![Status](https://img.shields.io/badge/status-ideation-purple)
 **Description:** A security tool to test vulnerabilities related to the KRACK attack on WPA2 networks.  
 
-### Emerald ![Status](https://img.shields.io/badge/status-unnamed-grey)
-**Idea:** Ongoing...
+### Emerald ![Status](https://img.shields.io/badge/status-unnamed-black)
+**Description:** Ongoing...
 
 <br>
 
