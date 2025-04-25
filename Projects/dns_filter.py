@@ -4,7 +4,7 @@ based on a predefined block list. If a domain is listed in `BLOCK_LIST`, the ser
 responds with NXDOMAIN (non-existent domain). Otherwise, it forwards the request
 to an external DNS resolver (default: 8.8.8.8).
 
-You can test the server by running it and then using the `dig` command to query:
+You can test the server by running it and then using the `dig` command to query:  
 `dig @127.0.0.1 domain.com`
 
 Make sure to run the script with root privileges to bind to port 53.
