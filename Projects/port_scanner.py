@@ -3,7 +3,8 @@ This script implements a simple TCP port scanner in Python that checks for open 
 on a specified domain. The scanner attempts to establish TCP connections to a
 predefined list of common ports and reports which ones are open.
 
-You can test the scanner by running the script.
+Usage:
+    `python3 port_scanner.py`
 """
 
 import socket
