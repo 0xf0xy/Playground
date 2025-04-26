@@ -1,16 +1,14 @@
 """
 This script creates a simple DNS server in Python that filters domain requests
-based on a predefined block list. If a domain is listed in `BLOCK_LIST`, the server
+based on a predefined block list. If a domain is listed in BLOCK_LIST, the server
 responds with NXDOMAIN (non-existent domain). Otherwise, it forwards the request
 to an external DNS resolver (default: 8.8.8.8).
 
 Usage:  
-    `python3 dns_filter.py`
+    python3 dns_filter.py
 
-Test:
-    `dig @127.0.0.1 domain.com`
-
-Make sure to run the script with root privileges to bind to port 53.
+Note:
+    You may need root to bind to port 53.
 """
 
 from dnslib import DNSRecord
