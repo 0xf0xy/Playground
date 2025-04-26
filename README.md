@@ -9,7 +9,7 @@ You'll probably find things like:
 
 - 🛠️ Tools and utilities I’m building or testing
 - 💡 Concepts I’m learning and applying
-- 🧰 Random scripts to automate stuff or solve small problems
+- 🧰 Random scripts to automate stuff, solve small problems, and learn new things.
 
 <br>
 
