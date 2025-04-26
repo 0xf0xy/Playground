@@ -1,10 +1,8 @@
 """
 This script creates a simple DNS server in Python that filters domain requests
-based on a predefined block list. If a domain is listed in BLOCK_LIST, the server
-responds with NXDOMAIN (non-existent domain). Otherwise, it forwards the request
-to an external DNS resolver (default: 8.8.8.8).
+based on a predefined block list.
 
-Usage:  
+Usage:
     python3 dns_filter.py
 
 Note:
