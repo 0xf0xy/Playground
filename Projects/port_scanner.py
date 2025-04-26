@@ -4,7 +4,7 @@ on a specified domain. The scanner attempts to establish TCP connections to a
 predefined list of common ports and reports which ones are open.
 
 Usage:
-    `python3 port_scanner.py`
+    python3 port_scanner.py
 """
 
 import socket
