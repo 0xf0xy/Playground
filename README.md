@@ -10,6 +10,7 @@ You'll probably find things like:
 - 🛠️ Tools and utilities I’m building or testing
 - 💡 Concepts I’m learning and applying
 - 🧰 Random scripts to automate stuff, solve small problems, and learn new things.
+- 📝 Notes and reflections on what I’m learning, exploring, or figuring out along the way.
 
 <br>
 
