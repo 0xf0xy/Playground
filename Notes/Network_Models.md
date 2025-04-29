@@ -1,5 +1,4 @@
 # Introduction
-
 The OSI (Open Systems Interconnection) model and the TCP/IP model are conceptual frameworks that help us understand how data travels across a network. They break down communication into layers, making it easier to design, implement, and troubleshoot network systems.
 
 The OSI model has 7 layers, while the TCP/IP model is more practical and has 4 or 5 layers, depending on interpretation. Despite the differences, the two models complement each other.
