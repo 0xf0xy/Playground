@@ -3,7 +3,7 @@
 <br>
 
 ## 🧠 About
-This repo is a collection of small personal projects, tests, scripts, and prototypes. Nothing fancy, just code I write for fun, practice, or exploration.
+This repo is a collection of small personal projects, notes, tests, scripts, and prototypes. Nothing fancy, just code I write for fun, practice, or exploration.
 
 You'll probably find things like:
 
