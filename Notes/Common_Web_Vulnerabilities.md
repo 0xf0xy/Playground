@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Web applications often expose sensitive behaviors through their HTTP requests and responses. By analyzing and manipulating them, attackers can discover vulnerabilities and exploit them for unauthorized access, data leaks, and more. Below are some of the most common web vulnerabilities, how to spot them, and what to look for in HTTP traffic.
 
