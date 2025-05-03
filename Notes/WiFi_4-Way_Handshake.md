@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 The 4-Way Handshake is a process used in WPA/WPA2 Wi-Fi security to establish a secure connection between a client (supplicant) and an Access Point (authenticator). It's part of the authentication process after a successful PSK (pre-shared key) match.
 
